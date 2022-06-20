@@ -66,7 +66,8 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
+![K Means Clustering for Customer Segmentation](okok.png)
+![K Means Clustering for Customer Segmentation](okok1.png)
 
 
 ## Result:
